@@ -6,8 +6,8 @@
 - **ScopeWaveformReader (Python)**  
   A reverse-engineered toolkit for parsing and normalising proprietary oscilloscope waveform formats into a unified Python library.
 
-- **Advent of Code**  
+- **Advent of Code (C++ / C / Python)**  
   A collection of solutions and tutorials designed to help others learn programming concepts, improve problem-solving skills, and use Advent of Code as a structured way to develop their abilities.
 
-- **Nerdle Solver (Python)**  
+- **Nerdle Solver (Javascript)**  
   An interactive solver and learning aid for the Nerdle game, demonstrating constraint solving and search techniques.
