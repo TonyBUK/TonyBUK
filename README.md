@@ -1,9 +1,5 @@
 Welcome to my various projects.
 
-My main focus is going to be to try and create a repository to help anyone starting out on the Advent of Code Challenge, or even perhaps someone who's just stuck and needs some guidance.
-
-There's also various other projects here, some new, some old.
-
-If you want to get in contact, have any suggestions etc., I've enabled discussions on my repositories, feel free to drop anything there.
-
-  Tony.
+- VMS Backup (C++ / Python) is a reverse Engineered toolchain for migrating from OpenVMS backup save sets into a modern OS / file system.
+- ScopeWaveformReader is a reverse Engineered toolchain for normalising various Scope Waveform files into a unified Python library.
+- Advent of Code is a repository to help guide/coach anyone new to programming and offer guidance on how to use this coding challenge as a way of pushing yourself.
