@@ -1,6 +1,13 @@
-Welcome to my various projects.
+## Projects
 
-- VMS Backup (C++ / Python) is a reverse Engineered toolchain for migrating from OpenVMS backup save sets into a modern OS / file system.
-- ScopeWaveformReader is a reverse Engineered toolchain for normalising various Scope Waveform files into a unified Python library.
-- Advent of Code is a repository to help guide/coach anyone new to programming and offer guidance on how to use this coding challenge as a way of pushing yourself.
-- Nerdle Solver is an interactive tool / learning aid to solve the game of Nerdle.
+- **VMSBackup (C++ / Python)**  
+  A reverse-engineered implementation of the OpenVMS Backup Save Set format, enabling migration of legacy VAX backup archives to modern platforms.
+
+- **ScopeWaveformReader (Python)**  
+  A reverse-engineered toolkit for parsing and normalising proprietary oscilloscope waveform formats into a unified Python library.
+
+- **Advent of Code**  
+  A collection of solutions and tutorials designed to help others learn programming concepts, improve problem-solving skills, and use Advent of Code as a structured way to develop their abilities.
+
+- **Nerdle Solver (Python)**  
+  An interactive solver and learning aid for the Nerdle game, demonstrating constraint solving and search techniques.
